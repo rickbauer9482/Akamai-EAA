@@ -1,7 +1,7 @@
 # Akamai-EAA
 Project to automate tasks around Akamai's EAA ZeroTrust VPN
 
-You will need the Akamai SDK 
+You will need the Akamai SDK
 https://learn.akamai.com/en-us/webhelp/enterprise-application-access/enterprise-application-access/GUID-091D3A09-3E65-42A4-B1CF-EB058260D7B2.html
 
 Download the SDK
