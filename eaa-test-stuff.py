@@ -3,7 +3,7 @@ from eaa.common import *
 from sys import argv
 import time
 
-client = Client(api_key='272a0ca5-abf2-413c-bfb8-07530cb98095', secret_key='9423a05b-1b19-4d63-9695-1d5a6c871387')
+client = Client(api_key='AAAAAA', secret_key='BBBBB')
 apps = client.applications
 directories = client.directories
 connectors = client.connectors
