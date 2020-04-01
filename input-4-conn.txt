@@ -1,0 +1,1 @@
+EAA Application Name,IP Address of VDI,Akamai Region,URL for App,Connector#1,Connector#2,Connector#3,Connector#4,Identity Provider,Directory,Group,User email
